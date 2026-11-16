@@ -1,0 +1,2 @@
+# No third-party packages are needed.
+# The submission uses only the Python standard library (Python >= 3.11).

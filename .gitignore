@@ -1,0 +1,19 @@
+# Snapshot data belongs to the organizers and must never be committed.
+# Anchored to the repo root so harness/selftest/snapshots (synthetic fixtures) stay in.
+/snapshots/
+/snapshots_zip/
+
+# Local run output and secrets
+results/
+.env
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+
+# Selftest snapshots and generated results
+**/snapshots/
+**/snapshots_zip/
+**/results/
+**/.env

@@ -1,0 +1,115 @@
+{"group": "dup-001", "question": "What APY does the 17 month certificate special pay?", "expect": "answer", "must": ["4.10%"], "must_not": [], "as_of": null, "id": "p000"}
+{"group": "dup-001", "question": "How much does the seventeen-month special CD earn?", "expect": "answer", "must": ["4.10%"], "must_not": [], "as_of": null, "id": "p001"}
+{"group": "dup-009", "question": "What's the current rate on a 30 year fixed mortgage?", "expect": "answer", "must": ["7.13", "7.25"], "must_not": ["6.037%", "6.061%", "5.954%"], "as_of": null, "id": "p002"}
+{"group": "dup-009", "question": "30-year home loan interest rate?", "expect": "answer", "must": ["7.13", "7.25"], "must_not": ["6.037%"], "as_of": null, "id": "p003"}
+{"group": "dup-011", "question": "What are today's home loan rates?", "expect": "answer", "must": ["7.13"], "must_not": ["6.037%"], "as_of": null, "id": "p004"}
+{"group": "dup-016", "question": "APR on a five-year auto loan for a 2025 car?", "expect": "answer", "must": ["5.39%"], "must_not": ["5.34%"], "as_of": null, "id": "p005"}
+{"group": "dup-016", "question": "What is the 60 month car loan rate for a 2025 model year?", "expect": "answer", "must": ["5.39%"], "must_not": ["5.34%"], "as_of": null, "id": "p006"}
+{"group": "dup-017", "question": "84-month auto loan APR for a 2024 model year vehicle?", "expect": "answer", "must": ["5.59%"], "must_not": ["5.54%"], "as_of": null, "id": "p007"}
+{"group": "dup-017", "question": "Seven-year car loan rate on a 2024 truck?", "expect": "answer", "must": ["5.59%"], "must_not": ["5.54%"], "as_of": null, "id": "p008"}
+{"group": "dup-034", "question": "Which credit cards does Dupaco offer, and what APR does each carry?", "expect": "answer", "must": ["Platinum Visa", "Rewards Visa", "Business Platinum", "Business Rewards", "12.5", "20.5"], "must_not": ["9.9%"], "as_of": null, "id": "p009"}
+{"group": "dup-034", "question": "List all your credit cards with their APRs.", "expect": "answer", "must": ["Platinum Visa", "Rewards Visa", "12.5"], "must_not": ["9.9%"], "as_of": null, "id": "p010"}
+{"group": "dup-045", "question": "Share Savings dividend rate for a $15,000 balance?", "expect": "answer", "must": ["0.15"], "must_not": ["0.30%", "0.40%"], "as_of": null, "id": "p011"}
+{"group": "dup-045", "question": "If I keep between $10,000 and $24,999 in Share Savings, what dividend do I get?", "expect": "answer", "must": ["0.15"], "must_not": ["0.30%", "0.40%"], "as_of": null, "id": "p012"}
+{"group": "dup-054", "question": "What's your routing number?", "expect": "answer", "must": ["273974581"], "must_not": ["271176899"], "as_of": null, "id": "p013"}
+{"group": "dup-054", "question": "Dupaco ABA routing number?", "expect": "answer", "must": ["273974581"], "must_not": ["271176899"], "as_of": null, "id": "p014"}
+{"group": "dup-055", "question": "Say the routing number again?", "expect": "answer", "must": ["273974581"], "must_not": [], "as_of": null, "id": "p015"}
+{"group": "dup-064", "question": "What hours are your branch lobbies open?", "expect": "answer", "must": ["8:30"], "must_not": ["ZIP code"], "as_of": null, "id": "p016"}
+{"group": "dup-065", "question": "When are your lobbies open?", "expect": "answer", "must": ["8:30"], "must_not": ["ZIP code"], "as_of": null, "id": "p017"}
+{"group": "dup-066", "question": "What are your drive-up window hours?", "expect": "answer", "must": ["8 a.m.", "6 p.m."], "must_not": [], "as_of": null, "id": "p018"}
+{"group": "dup-066", "question": "When is the drive-thru open?", "expect": "answer", "must": ["8 a.m.", "6 p.m."], "must_not": [], "as_of": null, "id": "p019"}
+{"group": "dup-068", "question": "Where is the Galena branch located?", "expect": "answer", "must": ["11375 Oldenburg", "61036"], "must_not": [], "as_of": null, "id": "p020"}
+{"group": "dup-068", "question": "Galena branch address?", "expect": "answer", "must": ["11375 Oldenburg", "61036"], "must_not": [], "as_of": null, "id": "p021"}
+{"group": "dup-073", "question": "How many branch locations does Dupaco have?", "expect": "answer", "must": ["22"], "must_not": ["24 branch"], "as_of": null, "id": "p022"}
+{"group": "dup-073", "question": "Number of Dupaco branches?", "expect": "answer", "must": ["22"], "must_not": ["24 branch"], "as_of": null, "id": "p023"}
+{"group": "dup-075", "question": "Is the Hy-Vee branch still open?", "expect": "answer", "must": ["March 31, 2026"], "must_not": [], "as_of": null, "id": "p024"}
+{"group": "dup-074", "question": "When did the Hy-Vee branch close?", "expect": "answer", "must": ["March 31, 2026"], "must_not": [], "as_of": null, "id": "p025"}
+{"group": "dup-074", "question": "What is the closing date for the Hy-Vee branch?", "expect": "answer", "must": ["March 31, 2026"], "must_not": [], "as_of": null, "id": "p026"}
+{"group": "dup-087", "question": "Has Forbes recognized Dupaco?", "expect": "answer", "must": ["fifth"], "must_not": ["fourth", "2020", "2021"], "as_of": null, "id": "p027"}
+{"group": "dup-087", "question": "What has Forbes said about Dupaco?", "expect": "answer", "must": ["fifth"], "must_not": ["fourth", "2020", "2021"], "as_of": null, "id": "p028"}
+{"group": "dup-008", "question": "Where can I see Dupaco's certificate rates online?", "expect": "answer", "must": ["dupaco.com/personal/savings-account"], "must_not": ["info.dupaco.com"], "as_of": null, "id": "p029"}
+{"group": "dup-008", "question": "Give me the link to your CD rates.", "expect": "answer", "must": ["dupaco.com/personal/savings-account"], "must_not": ["info.dupaco.com"], "as_of": null, "id": "p030"}
+{"group": "dup-052", "question": "What interest do your checking accounts pay?", "expect": "answer", "must": ["2.50%"], "must_not": ["3% APY"], "as_of": null, "id": "p031"}
+{"group": "dup-052", "question": "Checking account APY?", "expect": "answer", "must": ["2.50%"], "must_not": ["3% APY"], "as_of": null, "id": "p032"}
+{"group": "dup-035", "question": "Platinum Visa purchase APR?", "expect": "answer", "must": ["12.5"], "must_not": ["9.9%"], "as_of": null, "id": "p033"}
+{"group": "dup-035", "question": "What's the regular APR on the Platinum Visa card?", "expect": "answer", "must": ["12.5"], "must_not": ["9.9%"], "as_of": null, "id": "p034"}
+{"group": "dup-145", "question": "What's the 7/1 ARM rate?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p035"}
+{"group": "dup-145", "question": "Rate for a 5/1 adjustable-rate mortgage?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p036"}
+{"group": "dup-147", "question": "Construction loan interest rate?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p037"}
+{"group": "dup-147", "question": "What rate do you charge for construction loans?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p038"}
+{"group": "dup-102", "question": "What are the Mullan Avenue branch lobby hours?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p039"}
+{"group": "dup-102", "question": "When is the Mullan Avenue branch open?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p040"}
+{"group": "dup-050", "question": "Bright Savings APY?", "expect": "answer", "must": ["2.25"], "must_not": ["Jump Start", "0.35%"], "as_of": null, "id": "p041"}
+{"group": "dup-050", "question": "What does the Bright Savings account pay?", "expect": "answer", "must": ["2.25"], "must_not": ["Jump Start", "0.35%"], "as_of": null, "id": "p042"}
+{"group": "dup-040", "question": "Credit card interest rates?", "expect": "answer", "must": ["12.5", "15.5"], "must_not": [], "as_of": null, "id": "p043"}
+{"group": "dup-040", "question": "What are your Visa card rates?", "expect": "answer", "must": ["12.5", "15.5"], "must_not": [], "as_of": null, "id": "p044"}
+{"group": "dup-080", "question": "Branch and ATM locator link?", "expect": "answer", "must": ["dupaco.com/contact"], "must_not": ["/locations/branch-hours"], "as_of": null, "id": "p045"}
+{"group": "dup-080", "question": "Which web page shows your branches and ATMs?", "expect": "answer", "must": ["dupaco.com/contact"], "must_not": ["/locations/branch-hours"], "as_of": null, "id": "p046"}
+{"group": "dup-049", "question": "Is there a savings tier paying 0.35% APY?", "expect": "answer", "must": ["0.20"], "must_not": ["up to 0.35"], "as_of": null, "id": "p047"}
+{"group": "dup-049", "question": "Does any Share Savings balance tier earn 0.35% APY?", "expect": "answer", "must": ["0.20"], "must_not": ["up to 0.35"], "as_of": null, "id": "p048"}
+{"group": "dup-031", "question": "Tell me about the Home$tart program.", "expect": "answer", "must": ["15,000"], "must_not": [], "as_of": null, "id": "p049"}
+{"group": "dup-031", "question": "What is Home$tart?", "expect": "answer", "must": ["15,000"], "must_not": [], "as_of": null, "id": "p050"}
+{"group": "dup-028", "question": "36 month personal loan APR?", "expect": "answer", "must": ["10.49"], "must_not": [], "as_of": null, "id": "p051"}
+{"group": "dup-028", "question": "Three-year personal loan rate?", "expect": "answer", "must": ["10.49"], "must_not": [], "as_of": null, "id": "p052"}
+{"group": "dup-076", "question": "The Hy-Vee branch closed. Which branches can its members use for full service?", "expect": "answer", "must": ["Key West", "Sycamore"], "must_not": ["CO-OP Shared Branch"], "as_of": null, "id": "p053"}
+{"group": "dup-006", "question": "What was the 10-month jumbo certificate special APY on May 20, 2026?", "expect": "answer", "must": ["3.90%"], "must_not": ["4.00%"], "as_of": null, "id": "p054"}
+{"group": "dup-006", "question": "What was the ten month fixed jumbo special certificate rate?", "expect": "answer", "must": ["3.90%"], "must_not": ["4.00%"], "as_of": "2026-06-01", "id": "p055"}
+{"group": "dup-006-now", "question": "What's the 10-month jumbo certificate special APY now?", "expect": "answer", "must": ["4.00%"], "must_not": ["3.90%"], "as_of": null, "id": "p056"}
+{"group": "dup-005", "question": "What are your certificate rates?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p057"}
+{"group": "dup-005", "question": "Read me all of the CD rates.", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p058"}
+{"group": "dup-081", "question": "Who can join Dupaco?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p059"}
+{"group": "dup-060", "question": "How do I change my address with Dupaco?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p060"}
+{"group": "dup-046", "question": "What's the top Share Savings rate?", "expect": "answer", "must": ["0.20", "25,000"], "must_not": ["0.35%"], "as_of": null, "id": "p061"}
+{"group": "dup-104", "question": "Are lobby hours the same at every branch?", "expect": "answer", "must": ["12:30", "noon"], "must_not": [], "as_of": null, "id": "p062"}
+{"group": "x-vto-current", "question": "How many employees took Volunteer Time Off?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p063"}
+{"group": "dup-101", "question": "Do you have student loans?", "expect": "answer", "must": ["student loan"], "must_not": ["Share Savings", "0.20%"], "as_of": null, "id": "p064"}
+{"group": "dup-094", "question": "Can I use Apple Pay with my Dupaco card?", "expect": "answer", "must": ["Apple Pay"], "must_not": [], "as_of": null, "id": "p065"}
+{"group": "dup-082", "question": "How can I become a member online?", "expect": "answer", "must": ["join.dupaco.com"], "must_not": ["info.dupaco.com/how_to_join"], "as_of": null, "id": "p066"}
+{"group": "x-mort-may", "question": "What was the 30-year fixed mortgage rate for loans of $100,000 or less as of May 12, 2026?", "expect": "answer", "must": ["5.875%"], "must_not": ["7.13%"], "as_of": null, "id": "p067"}
+{"group": "x-mort-aug", "question": "30-year mortgage rate for $100,000 or less?", "expect": "answer", "must": ["6.375%"], "must_not": ["7.13%"], "as_of": "2026-08-28", "id": "p068"}
+{"group": "x-25mo-may", "question": "What was the 25-month certificate special APY in May 2026?", "expect": "answer", "must": ["3.60%"], "must_not": [], "as_of": null, "id": "p069"}
+{"group": "x-25mo-now", "question": "What is the 25-month certificate special APY?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p070"}
+{"group": "x-60jumbo", "question": "What's the APY on a 60-month jumbo certificate?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p071"}
+{"group": "x-lostcard", "question": "What is the fee for a lost debit card?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p072"}
+{"group": "x-10yr", "question": "What's the rate on a 10-year CD?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p073"}
+{"group": "x-oct", "question": "What's the 60-month auto loan APR for a 2025 vehicle as of October 2026?", "expect": "answer", "must": ["5.39%"], "must_not": ["5.34%"], "as_of": null, "id": "p074"}
+{"group": "x-vto-current", "question": "How many people used VTO?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p075"}
+{"group": "x-vto-current", "question": "Number of employees who used volunteer time off?", "expect": "answer", "must": [], "must_not": [], "as_of": null, "id": "p076"}
+{"group": "dup-045", "question": "I have 15k in share savings, what dividend do I earn?", "expect": "answer", "must": ["0.15"], "must_not": ["0.30%", "0.40%"], "as_of": null, "id": "p077"}
+{"group": "dup-045", "question": "What dividend would fifteen thousand dollars in Share Savings earn?", "expect": "answer", "must": ["0.15"], "must_not": ["0.30%", "0.40%"], "as_of": null, "id": "p078"}
+{"group": "x-mm-100k", "question": "What do I earn on one hundred thousand dollars in Investor's Choice?", "expect": "answer", "must": ["0.40%"], "must_not": [], "as_of": null, "id": "p079"}
+{"group": "dup-016", "question": "How much is a five-year auto loan for a 2025 vehicle?", "expect": "answer", "must": ["5.39%"], "must_not": ["5.34%"], "as_of": null, "id": "p080"}
+{"group": "x-mort-250k", "question": "How much is a 30-year mortgage for 250K?", "expect": "answer", "must": ["7.25%"], "must_not": ["6.037%"], "as_of": null, "id": "p081"}
+{"group": "dup-081", "question": "Am I eligible to join Dupaco?", "expect": "answer", "must": ["Iowa", "Illinois", "Wisconsin"], "must_not": [], "as_of": null, "id": "p082"}
+{"group": "dup-081", "question": "What are the membership requirements?", "expect": "answer", "must": ["Iowa", "Illinois", "Wisconsin"], "must_not": [], "as_of": null, "id": "p083"}
+{"group": "dup-081", "question": "Can I become a Dupaco member?", "expect": "answer", "must": ["Iowa", "Illinois", "Wisconsin"], "must_not": [], "as_of": null, "id": "p084"}
+{"group": "dup-081", "question": "Who qualifies for membership at Dupaco?", "expect": "answer", "must": ["Iowa", "Illinois", "Wisconsin"], "must_not": [], "as_of": null, "id": "p085"}
+{"group": "dup-060", "question": "How do I change my address with Dupaco?", "expect": "answer", "must": ["800-373-7600"], "must_not": ["member number"], "as_of": null, "id": "p086"}
+{"group": "dup-060", "question": "How can I update my phone number on my account?", "expect": "answer", "must": ["800-373-7600"], "must_not": ["member number"], "as_of": null, "id": "p087"}
+{"group": "dup-060", "question": "I moved. How do I update my mailing address?", "expect": "answer", "must": ["800-373-7600"], "must_not": ["member number"], "as_of": null, "id": "p088"}
+{"group": "dup-060", "question": "How do I change my email address with Dupaco?", "expect": "answer", "must": ["800-373-7600"], "must_not": ["member number"], "as_of": null, "id": "p089"}
+{"group": "dup-088", "question": "How many staff used Volunteer Time Off last year?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p090"}
+{"group": "dup-088", "question": "Recently, how many Dupaco employees took VTO?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p091"}
+{"group": "x-vto-2023", "question": "How many employees used Volunteer Time Off in 2023?", "expect": "answer", "must": ["294"], "must_not": ["256"], "as_of": null, "id": "p092"}
+{"group": "x-vto-2024", "question": "How many employees used VTO in 2024?", "expect": "answer", "must": ["256"], "must_not": ["294"], "as_of": null, "id": "p093"}
+{"group": "x-vto-current", "question": "How many employees used Volunteer Time Off?", "expect": "answer", "must": ["256"], "must_not": ["294"], "as_of": null, "id": "p094"}
+{"group": "dup-005", "question": "What are all your certificate terms and rates?", "expect": "answer", "must": ["4.20%", "4.10%", "4.00%", "3.90%", "1.80%", "3.40%"], "must_not": ["Which certificate term"], "as_of": null, "id": "p095"}
+{"group": "dup-005", "question": "List every CD rate you offer.", "expect": "answer", "must": ["4.20%", "4.10%", "1.80%", "3.40%"], "must_not": ["Which certificate term"], "as_of": null, "id": "p096"}
+{"group": "x-br-lastyear", "question": "How many branches did Dupaco have last year?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p097"}
+{"group": "x-br-lastyear", "question": "Last year, how many branch locations did Dupaco operate?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p098"}
+{"group": "x-br-2024", "question": "How many branches did Dupaco have in 2024?", "expect": "answer", "must": ["23"], "must_not": ["100,000"], "as_of": null, "id": "p099"}
+{"group": "x-br-may", "question": "How many branches did Dupaco have as of May 2026?", "expect": "answer", "must": ["22"], "must_not": ["100,000"], "as_of": null, "id": "p100"}
+{"group": "x-br-mar", "question": "How many branch offices did Dupaco have as of March 2026?", "expect": "answer", "must": ["23"], "must_not": ["100,000"], "as_of": null, "id": "p101"}
+{"group": "dup-073", "question": "How many branches does Dupaco have right now?", "expect": "answer", "must": ["22"], "must_not": ["24 branch"], "as_of": null, "id": "p102"}
+{"group": "x-br-2019", "question": "How many branches did Dupaco have in 2019?", "expect": "refuse", "must": [], "must_not": [], "as_of": null, "id": "p103"}
+{"group": "x-br-lastyear", "question": "How many branches did Dupaco have the previous year?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p104"}
+{"group": "x-br-lastyear", "question": "How many branches did Dupaco have in the prior year?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p105"}
+{"group": "x-br-lastyear", "question": "This past year, how many branches did Dupaco have?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p106"}
+{"group": "x-br-lastyear", "question": "How many branches did Dupaco have a year ago?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p107"}
+{"group": "x-br-lastyear", "question": "How many branches did Dupaco have in the most recent year?", "expect": "answer", "must": ["23"], "must_not": ["100,000", "80,000"], "as_of": null, "id": "p108"}
+{"group": "dup-088", "question": "How many employees used Volunteer Time Off in the past year?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p109"}
+{"group": "dup-088", "question": "How many employees used VTO the prior year?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p110"}
+{"group": "dup-088", "question": "This past year, how many employees used Volunteer Time Off?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p111"}
+{"group": "dup-088", "question": "How many employees used Volunteer Time Off in the most recent year?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p112"}
+{"group": "dup-088", "question": "How many employees used Volunteer Time Off a year ago?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p113"}
+{"group": "dup-088", "question": "How many Dupaco employees used Volunteer Time Off the previous year?", "expect": "answer", "must": ["294", "256"], "must_not": [], "as_of": null, "id": "p114"}
