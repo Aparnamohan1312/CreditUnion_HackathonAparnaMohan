@@ -17,3 +17,9 @@ __pycache__/
 **/snapshots_zip/
 **/results/
 **/.env
+
+# Generated artifacts and secrets
+**/snapshots/
+**/snapshots_zip/
+**/results/
+**/.env
